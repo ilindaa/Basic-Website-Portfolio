@@ -1,3 +1,3 @@
-# Personal-Website-Portfolio Read Me
+# Basic-Website-Portfolio
 
-There is a PDF available in the main branch which summarizes the project's details.
+The .pdf file in the files directory summarizes the AP Java project details with text and pictures. The code is from Spring 2020. Last updated in Spring 2023. 
